@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: package-name
+Version: 0.0.1
+Summary: My short description
+Home-page: my_github_repository_project_link
+Author: my_name
+Author-email: my_email
+License: UNKNOWN
+Description: # package_calc
+        
+        Description. 
+        The package package_name is used to:
+        	Calculadora
+            - Calculos básicos
+        
+        ## Installation
+        
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+        
+        ```bash
+        pip install package_calc
+        ```
+        
+        ## Usage
+        
+        ```python
+        from package_calc.calculadora import calculadora
+        
+        calculadora.Calculadora()
+        ```
+        
+        ## Author
+        Sormane
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

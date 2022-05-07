@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="ppackage_calc",
+    name="package_calc",
     version="0.0.1",
     author="sormane",
     author_email="sormaneguimaraes@gmail.com",
